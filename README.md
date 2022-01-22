@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aswin, @aswin-hub is my Git
+- 👋 Hi, I’m Aswin, @aswinv-dev is my Git
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning : [ 'NodeJs', 'MySQL', 'Java']
 - 📫 How to reach me : mail.aswin22@gmail.com
